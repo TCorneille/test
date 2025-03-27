@@ -1,0 +1,51 @@
+[{
+    "id":1,
+    "city": "Muhanga",
+    "temperature": 22.3,
+    "humidity": 51,
+    "weather": {
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "https://openweathermap.org/img/wn/01d.png"
+    },
+    "wind": {
+        "speed": 3.2,
+        "direction": "NE"
+    },
+    "timestamp": "2025-03-23T12:34:56Z"
+},
+{
+  "id":2,
+    "city": "Kigali",
+    "temperature": 25.3,
+    "humidity": 54,
+    "weather": {
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "https://openweathermap.org/img/wn/01d.png"
+    },
+    "wind": {
+        "speed": 3.2,
+        "direction": "NE"
+    },
+    "timestamp": "2025-03-23T12:34:56Z"
+},
+{
+    "id":2,
+      "city": "Musanze",
+      "temperature": 15,
+      "humidity": 44,
+      "weather": {
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "https://openweathermap.org/img/wn/01d.png"
+      },
+      "wind": {
+          "speed": 3.2,
+          "direction": "NE"
+      },
+      "timestamp": "2025-03-23T12:34:56Z"
+  }
+
+]
+

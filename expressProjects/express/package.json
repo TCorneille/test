@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Learning express",
+  "main": "index.js",
+  "scripts": {
+    "hey": "nodemon server.js"
+  },
+  "author": "Cor",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
